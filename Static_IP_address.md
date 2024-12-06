@@ -27,6 +27,7 @@ static domain_name_servers=8.8.8.8 208.67.222.222
   |**static routers** |Địa chỉ IP Gateway, ở gia đình thì thường nó là địa chỉ IP của modem/router luôn.|
   |**static domain_name_servers** | Địa chỉ IP DNS phân giải tên miền. Thông thường chúng tôi dùng DNS của Google và OpenDNS. Bạn có thể thêm nhiều DNS, mỗi cái cách nhau bằng một dấu cách (khoảng trắng) |
 </details>
+
 ```shell
 # reboot
 sudo reboot
