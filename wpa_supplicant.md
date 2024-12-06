@@ -1,4 +1,4 @@
-Step 1: Create a file name "wpa_supplicant.conf" with content:
+Step 1: Create a file name "**wpa_supplicant.conf**" with content:
 ```
 country=us
 update_config=1
